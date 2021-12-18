@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ankitrana443
-- 👀 I’m interested in ...
-- 🌱 I’m currently ios developer ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m  Ankit Rajput
+- 👀 I’m interested in ... IOS Development
+- 🌱 I’m currently  ... ios developer
 - 📫 How to reach me ... email me on --> ranaankitshishodia97@gmail.com
 
 <!---
